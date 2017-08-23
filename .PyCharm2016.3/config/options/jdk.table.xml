@@ -1,0 +1,102 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Unknown at D:\Python\python-3.6.1.exe" />
+      <type value="Python SDK" />
+      <homePath value="D:\Python\python-3.6.1.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (D:\Python\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python/DLLs" />
+            <root type="simple" url="file://D:/Python/Lib" />
+            <root type="simple" url="file://D:/Python" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/twilio-6.3.dev0-py3.6.egg" />
+            <root type="simple" url="jar://D:/Python/Lib/site-packages/pysocks-1.6.7-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Python/Lib/site-packages/pytz-2017.2-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/six-1.10.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/httplib2-0.10.3-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-643338342" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (D:\Python\python.exe) (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python/DLLs" />
+            <root type="simple" url="file://D:/Python/Lib" />
+            <root type="simple" url="file://D:/Python" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/twilio-6.3.dev0-py3.6.egg" />
+            <root type="simple" url="jar://D:/Python/Lib/site-packages/pysocks-1.6.7-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Python/Lib/site-packages/pytz-2017.2-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/six-1.10.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/httplib2-0.10.3-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-643338342" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.1 (D:\Python\python.exe) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://D:/Python/DLLs" />
+            <root type="simple" url="file://D:/Python/Lib" />
+            <root type="simple" url="file://D:/Python" />
+            <root type="simple" url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/twilio-6.3.dev0-py3.6.egg" />
+            <root type="simple" url="jar://D:/Python/Lib/site-packages/pysocks-1.6.7-py3.6.egg!/" />
+            <root type="simple" url="jar://D:/Python/Lib/site-packages/pytz-2017.2-py3.6.egg!/" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/six-1.10.0-py3.6.egg" />
+            <root type="simple" url="file://D:/Python/Lib/site-packages/httplib2-0.10.3-py3.6.egg" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.3/system/python_stubs/-643338342" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

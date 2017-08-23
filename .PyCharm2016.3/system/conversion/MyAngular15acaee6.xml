@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\..\Learn\.idea\Learn.iml" timestamp="1490236611091" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\..\Movies\.idea\Movies.iml" timestamp="1491109306644" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\..\Training\.idea\Training.iml" timestamp="1493683371645" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\.idea\MyAngular.iml" timestamp="1493683371629" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1490236107400" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\.idea\misc.xml" timestamp="1490236611139" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\.idea\modules.xml" timestamp="1493683371762" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\MyAngular\.idea\workspace.xml" timestamp="1500780827596" />
+  </project-files>
+</conversion>
+

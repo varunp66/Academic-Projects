@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Vaibhav\PycharmProjects\untitled\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1490234612037" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\untitled\.idea\misc.xml" timestamp="1490235429807" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\untitled\.idea\modules.xml" timestamp="1490234612065" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\untitled\.idea\untitled.iml" timestamp="1490235429769" />
+    <file path="C:\Users\Vaibhav\PycharmProjects\untitled\.idea\workspace.xml" timestamp="1490235429789" />
+  </project-files>
+</conversion>
+
